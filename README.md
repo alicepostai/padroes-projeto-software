@@ -1,4 +1,6 @@
-Integrantes:
+# Projeto: Sistema de Pousada
 
-Alice Postai Nunes - 202010004897
-Henrique Buzzi Ribeiro - 202210503111
+## Integrantes
+
+- **Alice Postai Nunes** - 202010004897
+- **Henrique Buzzi Ribeiro** - 202210503111
